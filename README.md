@@ -4,3 +4,7 @@ A python based calculation tool for creating input sheet for heat-load &amp; coo
 2. The input requirement for heat load calculation is furnished in an excel file.
 3. Calculation of roof, false ceiling and flooring area is performed based on coefficients which are attributes of the dimesnion of the room.
 4. a directory of door and windows can be built to calculate leakage through them and infilteration.
+
+Note : Change the path of ashrae file in code before executing the code.
+
+This file will be developed further for HVAC system sizing..
